@@ -1,0 +1,8 @@
+﻿  LAB9.2B.cpp
+D:\programyvanya\LAB9.2B\LAB9.2B\LAB9.2B.cpp(430,67): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\programyvanya\LAB9.2B\LAB9.2B\LAB9.2B.cpp(433,67): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\programyvanya\LAB9.2B\LAB9.2B\LAB9.2B.cpp(438,67): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\programyvanya\LAB9.2B\LAB9.2B\LAB9.2B.cpp(450,71): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\programyvanya\LAB9.2B\LAB9.2B\LAB9.2B.cpp(453,71): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\programyvanya\LAB9.2B\LAB9.2B\LAB9.2B.cpp(458,71): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  LAB9.2B.vcxproj -> D:\programyvanya\LAB9.2B\x64\Debug\LAB9.2B.exe
